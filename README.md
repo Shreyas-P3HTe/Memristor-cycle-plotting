@@ -58,7 +58,9 @@ Absolute values shown when using logarithmic scale
 ## Use Cases
 This tool is particularly useful for:
 
-Characterizing memristor switching behavior
-Analyzing cycle-to-cycle variability in resistive switching devices
-Preparing figures for research publications
-High-throughput data visualization from electrical characterization
+- Characterizing memristor switching behavior
+- Analyzing cycle-to-cycle variability in resistive switching devices
+- Preparing figures for research publications
+- High-throughput data visualization from electrical characterization
+
+## The code is developed with the help of Claude Soonet and ChatGPT
