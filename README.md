@@ -63,4 +63,4 @@ This tool is particularly useful for:
 - Preparing figures for research publications
 - High-throughput data visualization from electrical characterization
 
-## The code is developed with the help of Claude Soonet and ChatGPT
+## The code is developed with the help of Claude Sonnet and ChatGPT
